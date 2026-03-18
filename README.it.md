@@ -150,3 +150,4 @@ La rimozione dei componenti dall'elenco preservato in `debloat-windows.ps1` non 
 ## Licenza
 
 GPL-3.0 — vedere [LICENSE](LICENSE)
+> 🇬🇧 [Read in English](README.md)
