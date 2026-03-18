@@ -34,7 +34,7 @@
     License:   GPL 3.0
 
 .LINK
-    https://github.com/
+    https://github.com/willskymaker/Windows-debloat
 
 .EXAMPLE
     # Run directly (requires administrator privileges):
