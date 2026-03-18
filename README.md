@@ -102,4 +102,4 @@ Removing apps from the list of preserved components is not recommended and may a
 
 ## License
 
-MIT — see [LICENSE](LICENSE)
+GPL 3.0 — see [LICENSE](LICENSE)
