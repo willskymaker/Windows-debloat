@@ -150,3 +150,5 @@ Removing components from the preserved list in `debloat-windows.ps1` is not reco
 ## License
 
 GPL-3.0 — see [LICENSE](LICENSE)
+
+🇮🇹 [Leggi in italiano](README.it.md) 
