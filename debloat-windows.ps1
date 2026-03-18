@@ -31,7 +31,7 @@
 .NOTES
     Tested on: Windows 11 22H2, 23H2, 24H2
     Requires:  PowerShell 5.1+ running as Administrator
-    License:   MIT
+    License:   GPL 3.0
 
 .LINK
     https://github.com/
